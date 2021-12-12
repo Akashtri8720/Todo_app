@@ -1,0 +1,33 @@
+.Todostyle{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8c0c0 !important;
+    border-radius :2px;
+    padding: 10px;
+    margin-bottom: 10px;
+    align-items: left;
+    width: 340px;
+    height: 30px;
+    display: flex;
+    font-size: 20px;
+    flex-direction:left;
+    border-radius :4px  4px 4px 4px;
+    text-align: left; 
+    margin-top: -5px;
+    
+    
+}
+.del{
+    background-color: #f8c0c0 !important;
+    margin-left: 300px;
+    font-weight:bold;
+    margin-top: -20px;
+    display: flex;
+    border: none;
+  
+
+   
+}   
+ul {
+    list-style-type: none;
+ }
