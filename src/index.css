@@ -7,7 +7,6 @@ body {
   display: flex;
   flex-direction: row;
   flex-direction: center;
-  
   font-family:   'Times New Roman', Times, serif ;
   margin-left: 50px;
 }
